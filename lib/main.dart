@@ -402,7 +402,7 @@ class _MyAppState extends State<MyApp> {
                 }
               }
               print(totalSum);
-              tempTableData.add(NullChecker().removeNullValues(rowData));
+              tempTableData.add(rowData);
             }
           }
         }

@@ -1,4 +1,3 @@
-/*
 class NullChecker {
   static NullChecker? _instance;
 
@@ -38,9 +37,9 @@ class NullChecker {
     }
   }
 }
-*/
 
 
+/*
 class NullChecker {
   static NullChecker? _instance;
 
@@ -75,4 +74,4 @@ class NullChecker {
       throw ArgumentError('Unsupported collection type');
     }
   }
-}
+}*/
